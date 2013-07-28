@@ -4,7 +4,7 @@ An element is formed of a name and a number.
 A set is formed by partially contiguous elements. 
 Merge two such sets.
 
-Ideea:
+Idea:
 Store all the numbers associated with a name in a compressed bitset.
 
 Implementation:
